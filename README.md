@@ -7,9 +7,9 @@
 - R.Agastya
 
 ### Check Service 
-> n.rpc.namaservice.fungsiclass()\
+> n.rpc.namaservice.fungsiclass()
 - ex: n.rpc.word_service.get_all_wordpack()
-> for String use\
+> for String use
 - n.rpc.word_service.get_wordpack_by_id(1,'Player2')
-> for delete\
+> for delete
 - n.rpc.word_service.search_wordpack(1,'Player2')
